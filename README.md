@@ -1,4 +1,4 @@
-# Tugas 2 (Kalkulator BMI)
+## Tugas 2 (Kalkulator BMI) - Hagi
 
 ## Screenshot
 
